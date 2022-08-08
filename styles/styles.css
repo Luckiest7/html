@@ -1,3 +1,14 @@
 html{
+    color:blue;
     font-family: 'Indie Flower', cursive;
 }
+.test{
+    color:red;
+    font-family: 'Indie Flower', cursive;
+}
+
+#only{
+    color:yellow;
+    font-family: 'Indie Flower', cursive;
+}
+
